@@ -1,0 +1,273 @@
+Fecha-hora;Evento;Severidad;Descripcion
+11/10/2024 11:49;Test success;INFO;All tests of Base station #823C have passed
+11/10/2024 11:46;OS upgrade;INFO;OS upgrade of Base station #823C : v7.1.4
+11/10/2024 11:45;Power up;INFO;Software: [UPG_OK] Upgrade from v6.9.0 to v7.1.4 finished
+;;;Hardware: [BBH_NOR] No reason
+11/10/2024 11:14;Time has shifted;WARN;Base station #823C time has shifted
+8/10/2024 23:03;Test success;INFO;All tests of Base station #823C have passed
+3/10/2024 00:05;Test success;INFO;All tests of Base station #823C have passed
+1/10/2024 11:01;Test success;INFO;All tests of Base station #823C have passed
+27/09/2024 21:13;Test success;INFO;All tests of Base station #823C have passed
+26/09/2024 01:09;Test success;INFO;All tests of Base station #823C have passed
+23/09/2024 17:44;Test success;INFO;All tests of Base station #823C have passed
+3/08/2024 09:14;Power up;INFO;Software: [UNK_SW_SET] unknown reason
+;;;Hardware: [BBH_NOR] No reason
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+20/07/2024 07:37;Time has shifted;WARN;Base station #823C time has shifted
+10/07/2024 01:11;Test success;INFO;All tests of Base station #823C have passed
+9/07/2024 14:10;Test success;INFO;All tests of Base station #823C have passed
+7/07/2024 20:16;Test success;INFO;All tests of Base station #823C have passed
+5/07/2024 05:21;Test success;INFO;All tests of Base station #823C have passed
+2/07/2024 13:16;Test success;INFO;All tests of Base station #823C have passed
+1/07/2024 01:43;Test success;INFO;All tests of Base station #823C have passed
+25/06/2024 01:10;Test success;INFO;All tests of Base station #823C have passed
+24/06/2024 01:18;Test success;INFO;All tests of Base station #823C have passed
+23/06/2024 07:16;Test success;INFO;All tests of Base station #823C have passed
+16/06/2024 12:01;Test success;INFO;All tests of Base station #823C have passed
+15/06/2024 01:38;Test success;INFO;All tests of Base station #823C have passed
+14/06/2024 18:37;Test success;INFO;All tests of Base station #823C have passed
+12/06/2024 21:33;Test success;INFO;All tests of Base station #823C have passed
+10/06/2024 21:38;Test success;INFO;All tests of Base station #823C have passed
+10/06/2024 17:48;Test success;INFO;All tests of Base station #823C have passed
+10/06/2024 16:48;Test success;INFO;All tests of Base station #823C have passed
+8/06/2024 23:44;Test success;INFO;All tests of Base station #823C have passed
+5/06/2024 00:55;Test success;INFO;All tests of Base station #823C have passed
+30/05/2024 21:44;Test success;INFO;All tests of Base station #823C have passed
+29/05/2024 21:13;Time has shifted;WARN;Base station #823C time has shifted
+28/05/2024 22:20;Test success;INFO;All tests of Base station #823C have passed
+28/05/2024 08:48;Test success;INFO;All tests of Base station #823C have passed
+27/05/2024 17:17;Test success;INFO;All tests of Base station #823C have passed
+27/05/2024 06:36;Test success;INFO;All tests of Base station #823C have passed
+26/05/2024 18:55;Test success;INFO;All tests of Base station #823C have passed
+26/05/2024 05:08;Time has shifted;WARN;Base station #823C time has shifted
+25/05/2024 15:52;Test success;INFO;All tests of Base station #823C have passed
+23/05/2024 03:44;Time has shifted;WARN;Base station #823C time has shifted
+18/05/2024 18:37;Test success;INFO;All tests of Base station #823C have passed
+18/05/2024 15:57;Test success;INFO;All tests of Base station #823C have passed
+16/05/2024 02:23;Time has shifted;WARN;Base station #823C time has shifted
+10/05/2024 18:39;Test success;INFO;All tests of Base station #823C have passed
+7/05/2024 21:43;Test success;INFO;All tests of Base station #823C have passed
+7/05/2024 15:52;Test success;INFO;All tests of Base station #823C have passed
+3/05/2024 16:23;Test success;INFO;All tests of Base station #823C have passed
+2/05/2024 08:50;Test success;INFO;All tests of Base station #823C have passed
+30/04/2024 15:37;Test success;INFO;All tests of Base station #823C have passed
+30/04/2024 14:47;Test success;INFO;All tests of Base station #823C have passed
+28/04/2024 03:32;Test success;INFO;All tests of Base station #823C have passed
+20/04/2024 13:40;Test success;INFO;All tests of Base station #823C have passed
+15/04/2024 12:42;Test success;INFO;All tests of Base station #823C have passed
+15/04/2024 08:42;Test success;INFO;All tests of Base station #823C have passed
+9/04/2024 03:11;Test success;INFO;All tests of Base station #823C have passed
+9/04/2024 01:29;Time has shifted;WARN;Base station #823C time has shifted
+7/04/2024 15:48;Test success;INFO;All tests of Base station #823C have passed
+5/04/2024 04:24;Test success;INFO;All tests of Base station #823C have passed
+4/04/2024 11:53;Test success;INFO;All tests of Base station #823C have passed
+1/04/2024 20:59;Test success;INFO;All tests of Base station #823C have passed
+22/10/2024 11:49;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+22/10/2024 11:47;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+8/10/2024 23:36;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+8/10/2024 23:35;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+3/10/2024 11:43;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+3/10/2024 11:40;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+20/09/2024 20:39;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+20/09/2024 20:37;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+3/09/2024 02:11;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+3/09/2024 02:10;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+21/08/2024 02:57;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+21/08/2024 02:56;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+21/08/2024 02:56;Time has shifted;WARN;Base station #8293 time has shifted
+20/08/2024 20:28;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+20/08/2024 20:26;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+9/08/2024 20:32;Test success;INFO;All tests of Base station #8293 have passed
+9/08/2024 20:24;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+9/08/2024 15:21;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+6/08/2024 21:31;OS upgrade;INFO;OS upgrade of Base station #8293 : v7.1.4
+6/08/2024 21:30;Power up;INFO;Software: [UPG_OK] Upgrade from v6.9.0 to v7.1.4 finished
+;;;Hardware: [BBH_NOR] No reason
+6/08/2024 01:51;Time has shifted;WARN;Base station #8293 time has shifted
+25/07/2024 16:28;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+25/07/2024 16:01;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+25/07/2024 15:57;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+25/07/2024 14:47;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+25/07/2024 12:47;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+25/07/2024 12:46;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+25/07/2024 12:41;Test success;INFO;All tests of Base station #8293 have passed
+25/07/2024 12:32;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+25/07/2024 04:03;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+20/07/2024 07:36;Time has shifted;WARN;Base station #8293 time has shifted
+18/07/2024 20:17;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+18/07/2024 20:16;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+16/07/2024 01:00;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+16/07/2024 00:59;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+16/07/2024 00:59;Time has shifted;WARN;Base station #8293 time has shifted
+14/07/2024 02:30;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+14/07/2024 02:29;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+14/07/2024 02:29;Time has shifted;WARN;Base station #8293 time has shifted
+8/07/2024 04:06;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+8/07/2024 04:04;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+8/07/2024 04:04;Time has shifted;WARN;Base station #8293 time has shifted
+7/07/2024 04:04;Time has shifted;WARN;Base station #8293 time has shifted
+6/07/2024 04:04;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+6/07/2024 04:03;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+5/07/2024 04:01;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+5/07/2024 04:01;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+4/07/2024 04:01;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+4/07/2024 04:00;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+2/07/2024 04:01;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+2/07/2024 04:00;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+18/06/2024 02:35;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+18/06/2024 02:34;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+17/06/2024 20:07;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+17/06/2024 20:04;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+9/06/2024 03:21;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+9/06/2024 03:20;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+7/06/2024 03:17;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+7/06/2024 03:16;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+17/05/2024 19:55;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+17/05/2024 19:53;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+14/05/2024 01:24;Time has shifted;WARN;Base station #8293 time has shifted
+3/05/2024 01:34;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+3/05/2024 01:33;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+3/04/2024 17:56;CBIT message received;INFO;Base station #8293 properly received a CBIT message during the last 30 minutes
+3/04/2024 17:56;Test success;INFO;All tests of Base station #8293 have passed
+3/04/2024 17:56;Communication up;INFO;Base station #8293 is back to normal
+3/04/2024 17:51;Power up;INFO;Software: [UNK_SW_SET] unknown reason
+;;;Hardware: [BBH_NOR] No reason
+3/04/2024 05:11;Test fail;ERROR;Some tests of Base station #8293 have failed
+3/04/2024 05:11;Communication down;ERROR;Base station #8293 does not respond
+3/04/2024 05:06;CBIT message missing;ERROR;Base station #8293 didn''t receive any CBIT message during the last 30 minutes
+2/04/2024 03:10;Connection Eth;INFO;Base station #8293 has switched its connection to Ethernet
+2/04/2024 03:10;Connection 3G;WARN;Base station #8293 has switched its connection to 3G
+23/10/2024 09:44;Test success;INFO;All tests of Base station #9838 have passed
+23/10/2024 09:24;Test success;INFO;All tests of Base station #9838 have passed
+23/10/2024 00:33;Test success;INFO;All tests of Base station #9838 have passed
+22/10/2024 22:13;Test success;INFO;All tests of Base station #9838 have passed
+22/10/2024 20:43;Test success;INFO;All tests of Base station #9838 have passed
+22/10/2024 13:01;Time has shifted;WARN;Base station #9838 time has shifted
+21/10/2024 12:19;Time has shifted;WARN;Base station #9838 time has shifted
+20/10/2024 22:10;Test success;INFO;All tests of Base station #9838 have passed
+20/10/2024 19:30;Test success;INFO;All tests of Base station #9838 have passed
+20/10/2024 16:40;Test success;INFO;All tests of Base station #9838 have passed
+20/10/2024 15:30;Test success;INFO;All tests of Base station #9838 have passed
+20/10/2024 11:59;Time has shifted;WARN;Base station #9838 time has shifted
+19/10/2024 11:24;Time has shifted;WARN;Base station #9838 time has shifted
+19/10/2024 10:41;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+19/10/2024 10:38;Test success;INFO;All tests of Base station #9838 have passed
+19/10/2024 10:31;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+18/10/2024 23:37;Test success;INFO;All tests of Base station #9838 have passed
+18/10/2024 20:47;Test success;INFO;All tests of Base station #9838 have passed
+18/10/2024 20:31;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+18/10/2024 20:11;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+18/10/2024 19:21;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+18/10/2024 19:14;Power up;INFO;Software: [BMON_PING] 25 consecutive ping failure
+;;;Hardware: [BBH_NOR] No reason
+18/10/2024 18:41;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+18/10/2024 12:30;Test success;INFO;All tests of Base station #9838 have passed
+18/10/2024 11:51;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+18/10/2024 11:41;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+18/10/2024 11:14;Time has shifted;WARN;Base station #9838 time has shifted
+18/10/2024 09:59;Test success;INFO;All tests of Base station #9838 have passed
+17/10/2024 23:09;Test success;INFO;All tests of Base station #9838 have passed
+17/10/2024 22:29;Test success;INFO;All tests of Base station #9838 have passed
+17/10/2024 22:29;Test success;INFO;All tests of Base station #9838 have passed
+17/10/2024 20:59;Test success;INFO;All tests of Base station #9838 have passed
+17/10/2024 18:19;Test success;INFO;All tests of Base station #9838 have passed
+17/10/2024 17:19;Test success;INFO;All tests of Base station #9838 have passed
+17/10/2024 15:48;Test success;INFO;All tests of Base station #9838 have passed
+17/10/2024 15:08;Test success;INFO;All tests of Base station #9838 have passed
+17/10/2024 14:31;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+17/10/2024 14:28;Test success;INFO;All tests of Base station #9838 have passed
+17/10/2024 14:11;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+17/10/2024 10:50;Time has shifted;WARN;Base station #9838 time has shifted
+16/10/2024 10:37;Time has shifted;WARN;Base station #9838 time has shifted
+15/10/2024 14:16;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+15/10/2024 14:16;Test success;INFO;All tests of Base station #9838 have passed
+15/10/2024 14:16;Communication up;INFO;Base station #9838 is back to normal
+15/10/2024 14:11;Power up;INFO;Software: [UNK_SW_SET] unknown reason
+;;;Hardware: [BBH_NOR] No reason
+15/10/2024 13:41;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+15/10/2024 13:41;Test fail;ERROR;Some tests of Base station #9838 have failed
+15/10/2024 13:41;Communication down;ERROR;Base station #9838 does not respond
+15/10/2024 08:29;Time has shifted;WARN;Base station #9838 time has shifted
+14/10/2024 12:17;Test success;INFO;All tests of Base station #9838 have passed
+14/10/2024 11:08;Test success;INFO;All tests of Base station #9838 have passed
+14/10/2024 11:08;Test success;INFO;All tests of Base station #9838 have passed
+13/10/2024 21:50;Time has shifted;WARN;Base station #9838 time has shifted
+13/10/2024 13:01;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+13/10/2024 12:56;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+12/10/2024 21:05;Test success;INFO;All tests of Base station #9838 have passed
+12/10/2024 19:45;Test success;INFO;All tests of Base station #9838 have passed
+12/10/2024 18:52;Time has shifted;WARN;Base station #9838 time has shifted
+12/10/2024 10:26;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+12/10/2024 10:21;Power up;INFO;Software: [BMON_PING] 35 consecutive ping failure
+;;;Hardware: [BBH_NOR] No reason
+12/10/2024 10:21;Test success;INFO;All tests of Base station #9838 have passed
+12/10/2024 10:21;Communication up;INFO;Base station #9838 is back to normal
+12/10/2024 10:16;Test fail;ERROR;Some tests of Base station #9838 have failed
+12/10/2024 10:16;Communication down;ERROR;Base station #9838 does not respond
+12/10/2024 09:11;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+11/10/2024 23:08;Test success;INFO;All tests of Base station #9838 have passed
+11/10/2024 19:51;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+11/10/2024 19:44;Power up;INFO;Software: [BMON_PING] 23 consecutive ping failure
+;;;Hardware: [BBH_NOR] No reason
+11/10/2024 19:41;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+11/10/2024 18:28;Time has shifted;WARN;Base station #9838 time has shifted
+11/10/2024 15:29;Test success;INFO;All tests of Base station #9838 have passed
+11/10/2024 15:26;Test success;INFO;All tests of Base station #9838 have passed
+11/10/2024 15:21;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+11/10/2024 15:21;Test success;INFO;All tests of Base station #9838 have passed
+11/10/2024 15:19;Test fail;ERROR;Some tests of Base station #9838 have failed
+11/10/2024 15:17;Power up;INFO;Software: [BMON_PING] 35 consecutive ping failure
+;;;Hardware: [BBH_NOR] No reason
+11/10/2024 15:06;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+11/10/2024 11:56;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+11/10/2024 11:51;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+11/10/2024 11:51;Power up;INFO;Software: [BMON_PING] 20 consecutive ping failure
+;;;Hardware: [BBH_NOR] No reason
+11/10/2024 11:01;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+11/10/2024 10:59;Power up;INFO;Software: [BMON_PING] 27 consecutive ping failure
+;;;Hardware: [BBH_NOR] No reason
+11/10/2024 10:56;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+10/10/2024 14:27;Time has shifted;WARN;Base station #9838 time has shifted
+10/10/2024 13:46;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+10/10/2024 13:39;Power up;INFO;Software: [BMON_PING] 29 consecutive ping failure
+;;;Hardware: [BBH_NOR] No reason
+10/10/2024 13:21;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+10/10/2024 12:11;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+10/10/2024 12:06;Test success;INFO;All tests of Base station #9838 have passed
+10/10/2024 12:06;Communication up;INFO;Base station #9838 is back to normal
+10/10/2024 12:04;Power up;INFO;Software: [BMON_PING] 33 consecutive ping failure
+;;;Hardware: [BBH_NOR] No reason
+10/10/2024 12:01;Test fail;ERROR;Some tests of Base station #9838 have failed
+10/10/2024 12:01;Communication down;ERROR;Base station #9838 does not respond
+10/10/2024 11:21;CBIT message missing;ERROR;Base station #9838 didn''t receive any CBIT message during the last 30 minutes
+9/10/2024 14:59;Test success;INFO;All tests of Base station #9838 have passed
+9/10/2024 14:56;Test success;INFO;All tests of Base station #9838 have passed
+9/10/2024 14:51;CBIT message received;INFO;Base station #9838 properly received a CBIT message during the last 30 minutes
+9/10/2024 14:51;Communication up;INFO;Base station #9838 is back to normal
+9/10/2024 14:49;Test fail;ERROR;Some tests of Base station #9838 have failed
+9/10/2024 14:48;Power up;INFO;Software: [BMON_PING] 36 consecutive ping failure
+;;;Hardware: [BBH_NOR] No reason
